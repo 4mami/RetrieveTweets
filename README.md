@@ -9,5 +9,5 @@
 - Microsoft Visual Studio Community 2019 Version 16.7.6
 ## 注意事項
 - 完全に自分用なので、エラーハンドリングはしていません
-- もしこのツールを使用する場合は、_Form1.cs_ 内の`[Replace with your bearer token!!!]`と書かれている部分を自分のTwitter APIのbearerトークンで置き換えてください
+- もしこのツールを使用する場合は、_Form1.cs_ 内の`[Replace with your bearer token!!!]`と書かれている部分を自分のTwitter APIのbearerトークンで置き換えてビルドしてください
 - **このツールを使用することによって生じたいかなる損害についても、作者は責任を負いません**
